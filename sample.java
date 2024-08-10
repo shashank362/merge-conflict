@@ -1,4 +1,4 @@
 hello world 
-a=10
-b=50
-c=a+b
+a=1
+b=2
+c=1+2
